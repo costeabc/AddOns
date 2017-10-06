@@ -1,0 +1,14 @@
+data/main.lua.i
+data/.pkgmeta.i
+data/Libs/DKPlog-1.0/DKPlog-1.0.lua.i
+data/.hgtags.i
+data/initialize.lua.i
+data/Libs/DKPlog-1.0/DKPlog-1.0.xml.i
+data/.hgignore.i
+data/embeds.xml.i
+data/mng_standbyGUI.lua.i
+data/mng_createGUI.lua.i
+data/DKP-Manager.toc.i
+data/arts/icon-config.tga.i
+data/communicationFunctions.lua.i
+data/checkoutAllLibs.changetoBAT.i
